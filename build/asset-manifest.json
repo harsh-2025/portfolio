@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc7ce541.css",
+    "main.js": "/static/js/main.f5d70a04.js",
+    "static/media/crypto-site.png": "/static/media/crypto-site.ad96bd74babb645a5fd7.png",
+    "static/media/Photo_fw14_056.png": "/static/media/Photo_fw14_056.c92bfad8bcca8944473f.png",
+    "static/media/S-logo.png": "/static/media/S-logo.34b4f268b93d7dce2d4d.png",
+    "index.html": "/index.html",
+    "main.cc7ce541.css.map": "/static/css/main.cc7ce541.css.map",
+    "main.f5d70a04.js.map": "/static/js/main.f5d70a04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc7ce541.css",
+    "static/js/main.f5d70a04.js"
+  ]
+}
