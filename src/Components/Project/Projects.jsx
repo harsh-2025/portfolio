@@ -8,6 +8,7 @@ import {
   SiChai,
   SiEthereum,
   SiExpress,
+  SiRedux,
   SiReact,
   SiSocketdotio,
   SiTailwindcss,
@@ -106,6 +107,53 @@ export const Projects = () => {
                   </a>
                   <a
                     href="https://github.com/harsh-2025/to-do-list"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt">
+                      View Code
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="projects_container" data-aos="fade-right">
+            <div className="project">
+              <div className="project_videocontainer">
+                <div>
+                  <img
+                    src="https://i.ibb.co/nCZdyfx/Krishna-store.png"
+                    alt="Sk-Weather-App"
+                  />
+                </div>
+              </div>
+              <div className="project_information">
+                <h2>Krishna Product</h2>
+                <p>
+                  An online grocery web app where we can order some food items  .
+                </p>
+                <div>
+                  <SiTailwindcss />
+                  <SiHtml5 />
+                  <SiReact/>
+                  <SiRedux/>
+                  <SiMongodb/>
+                  <SiReactrouter/>
+                  <IoLogoJavascript />
+                </div>
+                <div>
+                  <a
+                    href="https://krishnastore.vercel.app/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt">
+                      See this Live
+                    </span>
+                  </a>
+                  <a
+                    href="https://github.com/harsh-2025/Krishnastore.git"
                     target="_blank"
                     rel="noreferrer"
                   >
