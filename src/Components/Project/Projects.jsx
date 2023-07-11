@@ -8,7 +8,6 @@ import {
   SiChai,
   SiEthereum,
   SiExpress,
-  SiRedux,
   SiReact,
   SiSocketdotio,
   SiTailwindcss,
@@ -137,7 +136,7 @@ export const Projects = () => {
                   <SiTailwindcss />
                   <SiHtml5 />
                   <SiReact/>
-                  <SiRedux/>
+
                   <SiMongodb/>
                   <SiReactrouter/>
                   <IoLogoJavascript />
