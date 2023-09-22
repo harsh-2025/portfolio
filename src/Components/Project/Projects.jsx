@@ -26,6 +26,58 @@ export const Projects = () => {
       <div className="section">
         <h2 className="section__title different">Projects</h2>
         <div className="allProjects">
+<div className="projects_container" data-aos="fade-right">
+            <div className="project">
+              <div className="project_videocontainer">
+                <div>
+                  <img
+                    src="https://i.ibb.co/VtsPvzC/Opening-window.png"
+                    alt="CodeIt"
+                  />
+                </div>
+              </div>
+              <div className="project_information">
+                <h2>CodeIt</h2>
+                <p>
+                  Built a responsive code editor that supports languages like C++, Javascript, Python, and Java.
+                  The frontend is built with React.js and requests are parsed via the backend API set up with Express.js.
+                  Front end editor is employed using Ace Editor and the Backend processes the code via third-party API-judge0.
+                </p>
+                <div>
+                  <SiJavascript />
+                  <SiHtml5 /><DiCss3 />
+                  <FaReact />
+                  <SiExpress/>
+                  <SiReactrouter />
+                  <SiNodedotjs/>
+                  {/* <SiMaterialui /> */}
+                </div>
+                <div>
+                  <a
+                    href="https://code-it-web-ide.vercel.app/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt onbt">
+                      See this Live
+                    </span>
+                  </a>
+                  <a
+                    href="https://github.com/harsh-2025/CodeIt"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt">
+                      View Code
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          
           <div className="projects_container" data-aos="fade-right">
             <div className="project">
               <div className="project_videocontainer">
