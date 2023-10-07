@@ -99,7 +99,7 @@ export const About = () => {
           className="btnResume"
           onClick={() => {
             window.open(
-              "https://auth.geeksforgeeks.org/user/harshofficialrawat"
+              "https://auth.geeksforgeeks.org/user/harsh_rawat"
             );
           }}
         >
