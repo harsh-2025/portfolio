@@ -174,6 +174,50 @@ export const Projects = () => {
               <div className="project_videocontainer">
                 <div>
                   <img
+                    src="https://i.ibb.co/ctM2H0p/Chat-Fusion.png"
+                    alt="ChatFusion"
+                  />
+                </div>
+              </div>
+              <div className="project_information">
+                <h2>ChatFusion</h2>
+                <p>
+                  A website to do realtime chat in personal messaging with firebase and react  .
+                </p>
+                <div>
+                  <SiTailwindcss />
+                  <SiHtml5 />
+                  <IoLogoJavascript />
+                  <SiReactrouter/>
+                </div>
+                <div>
+                  <a
+                    href="https://chat-and-notification-feature-codepth-20a0f1j0m-harsh-2025.vercel.app/login"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt">
+                      See this Live
+                    </span>
+                  </a>
+                  <a
+                    href="https://github.com/harsh-2025/chat_and_notification_feature_codepth"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt">
+                      View Code
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="projects_container" data-aos="fade-right">
+            <div className="project">
+              <div className="project_videocontainer">
+                <div>
+                  <img
                     src="https://i.ibb.co/nCZdyfx/Krishna-store.png"
                     alt="Sk-Weather-App"
                   />
@@ -256,7 +300,49 @@ export const Projects = () => {
               </div>
             </div>
           </div>
-
+<div className="projects_container" data-aos="fade-right">
+            <div className="project">
+              <div className="project_videocontainer">
+                <div>
+                  <img
+                    src="https://i.ibb.co/0QkP396/Screenshot-2023-10-07-at-11-09-50-PM.pn"
+                    alt="Quiz"
+                  />
+                </div>
+              </div>
+              <div className="project_information">
+                <h2>Online Quiz</h2>
+                <p>
+                  A website to play quiz with time limit and analysis .
+                </p>
+                <div>
+                  <SiTailwindcss />
+                  <SiHtml5 />
+                  <IoLogoJavascript />
+                </div>
+                <div>
+                  <a
+                    href="https://causalfunnel-quiz.vercel.app/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt">
+                      See this Live
+                    </span>
+                  </a>
+                  <a
+                    href="https://github.com/harsh-2025/Causalfunnel_quiz"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt">
+                      View Code
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
           <div className="projects_container" data-aos="fade-right">
             <div className="project">
               <div className="project_videocontainer">
