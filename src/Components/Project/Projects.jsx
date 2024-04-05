@@ -73,6 +73,99 @@ export const Projects = () => {
               </div>
             </div>
           </div>
+
+<div className="projects_container" data-aos="fade-right">
+            <div className="project">
+              <div className="project_videocontainer">
+                <div>
+                  <img
+                    src="https://i.ibb.co/Rh0sDL0/Healthbooker.png"
+                    alt="HealthBooker"
+                  />
+                </div>
+              </div>
+              <div className="project_information">
+                <h2>HealthBooker</h2>
+                <p>
+                  Our website offers a seamless experience for users and doctors alike. Sign up or log in to unlock a range of features. Easily browse through a list of available doctors, manage your profile, and submit queries effortlessly. Stay updated with notifications and enjoy secure access to your information. Aspiring doctors can apply through our user-friendly system.
+                </p>
+                <div>
+                  <SiJavascript />
+                  <SiHtml5 /><DiCss3 />
+                  <FaReact />
+                  <SiReactrouter />
+                  {/* <SiMaterialui /> */}
+                </div>
+                <div>
+                  <a
+                    href="https://healthbooker-frontend-oi3y8n51g-harsh2025s-projects.vercel.app"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt onbt">
+                      See this Live
+                    </span>
+                  </a>
+                  <a
+                    href="https://github.com/harsh-2025/healthbooker_frontend"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt">
+                      View Code
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+<div className="projects_container" data-aos="fade-right">
+            <div className="project">
+              <div className="project_videocontainer">
+                <div>
+                  <img
+                    src="https://i.ibb.co/X5Kdw66/CodeSync.png"
+                    alt="CodeSync"
+                  />
+                </div>
+              </div>
+              <div className="project_information">
+                <h2>CodeSync</h2>
+                <p>
+                  Engineered a real-time collaborative code editor, boosting productivity by 30%. Designed features like customizable themes and group chatting, increasing user satisfaction by 40%. Implemented innovative functionalities for enhanced collaboration and user experience.
+                </p>
+                <div>
+                  <SiJavascript />
+                  <SiHtml5 /><DiCss3 />
+                  <FaReact />
+                  <SiReactrouter />
+                  {/* <SiMaterialui /> */}
+                </div>
+                <div>
+                  <a
+                    href="https://codesync-frontend-zvgf.vercel.app"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt onbt">
+                      See this Live
+                    </span>
+                  </a>
+                  <a
+                    href="https://github.com/harsh-2025/codesync-frontend"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt">
+                      View Code
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          
 <div className="projects_container" data-aos="fade-right">
             <div className="project">
               <div className="project_videocontainer">
