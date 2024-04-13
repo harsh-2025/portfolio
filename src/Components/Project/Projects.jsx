@@ -98,7 +98,7 @@ export const Projects = () => {
                 </div>
                 <div>
                   <a
-                    href="https://healthbooker-frontend-oi3y8n51g-harsh2025s-projects.vercel.app"
+                    href="https://healthbooker-frontend.vercel.app"
                     target="_blank"
                     rel="noreferrer"
                   >
